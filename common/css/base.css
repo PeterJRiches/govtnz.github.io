@@ -4,6 +4,6 @@ body {
 }
 header {background: #000; padding: 10px;}
 main {padding: 0 10px;}
-footer {border-top: 1px solid #999; margin-top: 2em; padding: 1em 10px;}
-footer .logos {float: right;}
-footer .logos .dia {display: block;}
+footer {border-top: 1px solid #000; margin-top: 2em; padding: 1em 10px;}
+footer .logos {text-align: right;}
+.visually-hidden {position:absolute; transform: scale(0);}
